@@ -20,7 +20,7 @@ planets = []
 Sun = None
 G = 6.674e-11
 PIXEL_TO_METER = 1e9
-TIME_SCALE = 1000000
+TIME_SCALE = 2000000
 
 class Body:
 
